@@ -1,4 +1,4 @@
-<img alt="DSVendas" src="./.github/banner.svg">
+<img alt="DSVendas" src="banner.svg">
 
 <p align="center"> 
   
