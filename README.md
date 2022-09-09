@@ -54,7 +54,7 @@
 <img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
 
----
+
 ## :page_facing_up: **Licença**
 
 <div align="center">
